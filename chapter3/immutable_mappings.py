@@ -12,3 +12,4 @@ except TypeError:
 
 d['2']='B'
 print(d_proxy)      #MappingProxyType is dynamic i.e change in original will be reflected in proxy
+
