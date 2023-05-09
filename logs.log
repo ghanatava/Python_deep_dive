@@ -1,0 +1,14 @@
+ERROR:root:An error has occured
+CRITICAL:root:System exited exit code 1
+INFO:root:The System is up
+DEBUG:root:Line 10 syntax error
+ERROR:root:An error has occured 
+CRITICAL:root:System exited exit code 1
+INFO:root:The System is up
+DEBUG:root:Line 10 syntax error
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "/home/ashura/Desktop/Python_deep_dive/chapter10/logging.py", line 15, in <module>
+    c=a/b
+      ~^~
+ZeroDivisionError: division by zero
