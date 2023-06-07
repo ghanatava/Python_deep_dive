@@ -1,0 +1,4 @@
+1001    Vijay   Lucknow     15040   vijay@gmail.com
+1002    Sam     Delhi       15020   sam@gmail.com
+1003    Sid     Vijayvada   15050   sid@gmail.com
+1004    Mosh    Mumbai      15300   mosh@gmail.com
